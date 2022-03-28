@@ -8,7 +8,7 @@ s = int(input("insira seu sexo (1 para masculino, 2 para feminino):"))
 h = float(input("insira sua altura:")) * 100
 if s == 1:
     peso = (72.2 * h) / 100 - 58
-    print(f'peso ideal:', peso)
+    print('peso ideal:', peso)
 elif s == 2:
     peso = (62.2 * h) / 100 - 44.7
-    print(f'peso ideal:', peso)
+    print('peso ideal:', peso)

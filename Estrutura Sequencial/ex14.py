@@ -12,4 +12,4 @@ if peso > 50:
     multa = peso_em_excesso * 4.00
     print(f'Foi pescado {peso_em_excesso} KG, resultado em {multa} de multa')
 else:
-    print(f'O peso é: {peso} e esta dentro do regulamento')
+    print(f'O peso é {peso} e esta dentro do regulamento')
