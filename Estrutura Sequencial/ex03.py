@@ -2,4 +2,4 @@
 n1 = int(input('Insira o primeiro Numero:'))
 n2 = int(input('Insira o segundo Numero:'))
 soma = n1 + n2
-print('a soma dos numeros é:', soma)
+print(f'a soma dos números é:', soma)

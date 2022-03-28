@@ -8,7 +8,4 @@ tamanho = int(input('Insira o tamanho da area a ser pintada:'))
 litros = tamanho / 3
 latas = litros / 18
 custo = latas * 80.0
-print(type(latas))
-print(type(custo))
-print(type(litros))
 print(f'Voce usara {latas}, resultado em {custo} de custo')

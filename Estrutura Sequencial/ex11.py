@@ -8,4 +8,4 @@ n3 = float(input('Insira o primeiro Numero Real:'))
 a = (2 * n1) * (n2 / 2)
 b = (3 * n1) + n3
 c = n3 ** 3
-print('a:', a, 'b:', b, 'c:', c)
+print(f'a: {a}, b: {b}, c: {c}')
