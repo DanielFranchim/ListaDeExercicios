@@ -1,7 +1,9 @@
-"""Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
+"""
+Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
 a) o produto do dobro do primeiro com metade do segundo.
 b) a soma do triplo do primeiro com o terceiro.
-c) o terceiro elevado ao cubo. """
+c) o terceiro elevado ao cubo.
+"""
 n1 = int(input('Insira o primeiro Numero Inteiro:'))
 n2 = int(input('Insira o segundo Numero Inteiro:'))
 n3 = float(input('Insira o primeiro Numero Real:'))
